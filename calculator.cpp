@@ -13,5 +13,7 @@ void multiplication(){
 }
 
 void division(){
+    double answer = a / b;
+    cout << "= " << answer << endl;
     
 }
