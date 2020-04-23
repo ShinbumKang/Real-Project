@@ -1,7 +1,9 @@
 #include "calculator.h"
 
 void addition(){
-
+    double answer = a + b;
+    cout << "= " << answer << endl;
+ 
 }
 
 void subtraction(){
