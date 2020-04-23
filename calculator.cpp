@@ -9,7 +9,7 @@ void subtraction(){
 }
 
 void multiplication(){
-
+    printf("%d", a*b);
 }
 
 void division(){
