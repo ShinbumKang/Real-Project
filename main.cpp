@@ -10,8 +10,9 @@ int main(){
 
     switch(op){
     case '+': 
-        addition();
+        addition(a,b);
         break;
+        //g++ sorting.h sorting.cpp main.cpp -o sorting
 
     case '-': 
         subtraction();

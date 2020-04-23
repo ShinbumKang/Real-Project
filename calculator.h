@@ -6,7 +6,7 @@ using namespace std;
 
 extern int a, b;
 
-void addition();
+void addition(int a, int b);
 void subtraction();
 void multiplication();
 void division();
