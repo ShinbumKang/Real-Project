@@ -5,7 +5,7 @@ void addition(){
 }
 
 void subtraction(){
-
+    cout << a - b;
 }
 
 void multiplication(){
